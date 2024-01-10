@@ -29,7 +29,7 @@ cd puppeteer-sudoku-solver
 npm install
 ```
 
-###Usage
+### Usage
 To run the Sudoku solver with Puppeteer, use the following command:
 
 ```bash
@@ -38,17 +38,17 @@ node index.js
 
 This will initiate Puppeteer, navigate to a Sudoku website, read the current board, solve it, and fill the missing values in the website.
 
-###Next steps
+### Next steps
 From this you can start working on your own approach, there are several sodoku sites out there to explore the powers of puppeteer.
 
 
-###Contributing
+### Contributing
 We welcome contributions from the community! If you find issues, have suggestions, or want to add new features, please open an issue or submit a pull request.
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-###Acknowledgments
+### Acknowledgments
 Special thanks to the Puppeteer team for providing a powerful tool for browser automation.
 
 Happy coding! 🚀
